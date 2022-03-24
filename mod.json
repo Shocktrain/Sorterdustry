@@ -1,0 +1,10 @@
+{
+  "name": "shocks-pixel-texturepack",
+  "displayName": "Pixeldustry - TexturePack",
+  "author": "Shocktrain",
+  "description": "Made from my sorter art of the game. Thanks to Xelo for Factoriodustry scripts",
+  "version": "0.4.1",
+  "hidden": true,
+  "minGameVersion": "105",
+  "dependencies": []
+}
